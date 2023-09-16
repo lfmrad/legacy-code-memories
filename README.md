@@ -5,14 +5,13 @@ Code from my academic years in engineering and physics. Organization might be me
 
 ## Some cool higlights:
 
-### Particles in a Box (in /physics-simulations)
+### [Particles in a Box](physics-simulations) 
 
 <img src="readme-assets/particles.gif"/>
 
-
 Custom simulation I created in EJS of a bunch of particles with toggleable elastic collisions, electric forces & gravity
 
-### 2D Rocket Launch Simulation (in /physics-simulations)
+### [2D Rocket Launch Simulation](physics-simulations) 
 
 <img src="readme-assets/rocket.gif"/>
 
@@ -24,6 +23,6 @@ aux = 1 + dm_dt * t / m0;
 yt = 0.5 * g * t*t + vgc * m0 * (aux * Math.log(aux) - aux + 1) / dm_dt;
 ```
 
-### ...this thing's code is in /arduino
+### [...this thing's code in /arduino](arduino) 
 
 <img src="readme-assets/ai-overlord.gif"/>
